@@ -88,6 +88,7 @@ server {
 sudo systemctl restart nginx
 sudo systemctl status nginx
 ```
+   ![Images](images/image1.png)
 
 ✅ At this point, traffic is distributed between Web1 and Web2 via HTTP.
 
@@ -140,15 +141,17 @@ Install Certbot:
 sudo snap install --classic certbot
 sudo ln -s /snap/bin/certbot /usr/bin/certbot
 ```
-
+  ![Images](images/image2.png)
+  
 ### 5️⃣ Request SSL Certificate
 
 ```bash
 sudo certbot --nginx
 ```
-
 * Select your domain from the prompt.
 * Certbot automatically updates Nginx with SSL configs.
+   
+   ![Images](images/image3.png)
 
 ### 6️⃣ Test HTTPS
 
