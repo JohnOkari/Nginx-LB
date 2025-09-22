@@ -4,9 +4,9 @@
 
 This project demonstrates how to configure **Nginx as a Load Balancer** for multiple web servers and secure the traffic using **SSL/TLS certificates** from [Let’s Encrypt](https://letsencrypt.org/) via **Certbot**.
 
-The final architecture looks like this:
+# The final architecture looks like this:
 
-![Architecture](https://steghub.com/wp-content/uploads/2023/07/image-42-1024x623.png)
+# ![Architecture](https://steghub.com/wp-content/uploads/2023/07/image-42-1024x623.png)
 
 ---
 
