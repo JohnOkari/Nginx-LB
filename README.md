@@ -161,7 +161,7 @@ Visit:
 https://your-domain.com
 ```
 
-✅ You should see a **padlock icon** in the browser (certificate valid).
+✅ ![Images](images/image4.png)
 
 ---
 
@@ -191,6 +191,8 @@ Add:
 
 ➡️ This runs twice a day.
 
+   ![Images](images/image5.png)
+   
 ---
 
 ## ✅ Verification
