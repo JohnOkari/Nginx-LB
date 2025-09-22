@@ -141,8 +141,8 @@ Install Certbot:
 sudo snap install --classic certbot
 sudo ln -s /snap/bin/certbot /usr/bin/certbot
 ```
-  ![Images](images/image2.png)
-  
+   ![Images](images/image2.png)
+   
 ### 5️⃣ Request SSL Certificate
 
 ```bash
