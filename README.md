@@ -14,7 +14,7 @@ This project demonstrates how to configure **Nginx as a Load Balancer** for mult
 
 * AWS EC2 instance (Ubuntu 20.04 LTS) for **Nginx Load Balancer**
 * At least **two backend web servers** (e.g., Apache or Nginx running a sample app)
-* A registered domain name (from GoDaddy, Namecheap, Bluehost, etc.)
+* A registered domain name (from GoDaddy, Namecheap, Bluehost, etc.) - I used subdomain https://www.duckdns.org/domains
 * Elastic IP attached to your EC2 instance (for static IP mapping)
 * Ports **80 (HTTP)** and **443 (HTTPS)** opened in **Security Groups**
 
@@ -192,7 +192,7 @@ Add:
 ➡️ This runs twice a day.
 
    ![Images](images/image5.png)
-   
+
 ---
 
 ## ✅ Verification
